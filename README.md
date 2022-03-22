@@ -8,7 +8,6 @@
 ---
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=giuxtaposition&theme=tokyonight" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuxtaposition&layout=compact&theme=tokyonight" />
 </div>
   
