@@ -1,9 +1,10 @@
 <script lang="ts">
+    import Navbar from "./components/Navbar.svelte"
 </script>
 
-<main>
-    <h1>Giuxtaposition</h1>
-</main>
+<Navbar />
+
+<main />
 
 <style>
 </style>

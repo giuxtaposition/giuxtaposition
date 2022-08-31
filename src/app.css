@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+:root {
+    --dark-background-color: #000000;
+    --white: #e6f1ff;
+    --brand: #b794f4;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background: var(--dark-background-color) none repeat scroll 0% 0%;
+    color: var(--white);
+    font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica,
+        Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+        "Segoe UI Symbol";
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+    text-decoration-skip-ink: auto;
+    color: var(--white);
+}
+
+a:hover {
+    color: var(--brand);
+}
