@@ -4,8 +4,8 @@
     import MdEmail from "svelte-icons/md/MdEmail.svelte"
 </script>
 
-<div class="hero">
-    <div class="hero-header">
+<section id="hero">
+    <div id="hero-header">
         <div>
             <img alt="decoration" src="/decoration.svg" />
             <p class="hello">Hello! I'm-</p>
@@ -56,56 +56,39 @@
             ></a
         >
     </div>
-</div>
+</section>
 
 <style>
-    .hero {
-        padding-inline-start: 10vw;
-        padding-inline-end: 10vw;
-        margin-top: 22.5vh;
-    }
-
-    .hero-header {
+    #hero-header {
         line-height: 0;
     }
 
-    .hero img {
-        width: 150px;
-        top: -15px;
-        left: calc(2.5rem * -1);
-        filter: invert(0.1);
-        position: absolute;
-        z-index: -1;
-        max-width: 100%;
-        height: auto;
-    }
-
-    .hero p {
+    #hero p {
         color: var(--grey);
         font-size: 1.25rem;
     }
 
-    .hero p a {
+    #hero p a {
         color: var(--brand);
     }
 
-    .hero p.hello {
+    #hero p.hello {
         position: relative;
         color: var(--brand);
         font-size: 2rem;
         font-weight: 600;
     }
 
-    .hero-header div {
+    #hero-header div {
         position: relative;
     }
 
-    .hero h1 {
+    #hero h1 {
         font-size: 7rem;
         font-weight: 700;
     }
 
-    .hero h2 {
+    #hero h2 {
         line-height: 1.2;
         font-weight: 600;
         font-size: 2rem;
@@ -113,7 +96,7 @@
         color: var(--grey);
     }
 
-    .hero h2 span {
+    #hero h2 span {
         color: var(--white);
     }
 
