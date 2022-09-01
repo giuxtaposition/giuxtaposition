@@ -1,7 +1,13 @@
+<script>
+    import FaGithub from "svelte-icons/fa/FaGithub.svelte"
+    import FaLinkedin from "svelte-icons/fa/FaLinkedin.svelte"
+    import MdEmail from "svelte-icons/md/MdEmail.svelte"
+</script>
+
 <div class="hero">
     <div class="hero-header">
         <div>
-            <img alt="decoration" src="/public/decoration.svg" />
+            <img alt="decoration" src="/decoration.svg" />
             <p class="hello">Hello! I'm-</p>
         </div>
         <h1>Giulia Ye.</h1>
@@ -28,17 +34,26 @@
             target="_blank"
             rel="noopener noreferrer"
             href="https://github.com/giuxtaposition"
-            ><button type="button">Github</button></a
+            ><button type="button"
+                ><div class="icon"><FaGithub /></div>
+                Github</button
+            ></a
         ><a
             target="_blank"
             rel="noopener noreferrer"
             href="https://linkedin.com/in/giulia-ye-6a0004247/"
-            ><button type="button">LinkedIn</button></a
+            ><button type="button"
+                ><div class="icon"><FaLinkedin /></div>
+                LinkedIn</button
+            ></a
         ><a
             target="_blank"
             rel="noopener noreferrer"
             href="mailto:yg97.cs@gmail.com"
-            ><button type="button">Email</button></a
+            ><button type="button"
+                ><div class="icon"><MdEmail /></div>
+                Email</button
+            ></a
         >
     </div>
 </div>
@@ -105,5 +120,12 @@
     .links {
         display: flex;
         gap: 1rem;
+    }
+
+    .icon {
+        width: 16px;
+        height: 16px;
+        color: var(--brand);
+        margin-right: 0.25rem;
     }
 </style>

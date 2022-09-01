@@ -20,6 +20,6 @@
     "vite": "^3.0.7"
   },
   "dependencies": {
-    "svelte-icon": "^1.2.4"
+    "svelte-icons": "^2.1.0"
   }
 }
