@@ -3,6 +3,7 @@
 :root {
     --dark-background-color: #000000;
     --white: #e6f1ff;
+    --grey: #8f9094;
     --brand: #b794f4;
 }
 
@@ -25,4 +26,28 @@ a {
 
 a:hover {
     color: var(--brand);
+}
+
+button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 250ms ease 0s;
+    width: auto;
+    line-height: 1.2;
+    border-radius: 0.375rem;
+    font-weight: 600;
+    height: 2.5rem;
+    min-width: 2.5rem;
+    font-size: 1rem;
+    padding-inline-start: 1rem;
+    padding-inline-end: 1rem;
+    background-color: rgba(255, 255, 255, 0.08);
+    color: var(--white);
+    cursor: pointer;
+    border: none;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.16);
 }
