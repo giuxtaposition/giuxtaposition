@@ -1,0 +1,21 @@
+[
+    {
+        "company": "Claranet Italia",
+        "role": "Agile Developer",
+        "date": "October 2021 - Present",
+        "description": [
+            "Applying Extreme programming principles while writing clean and maintainable code for a diverse array of clients.",
+            "Being a part of a dev team for an insurance company, building microservices using rust for the backend and elm for the frontend.",
+            "Working as a Full Stack developer and Frontend Lead in a small team that build from scratch a cloud native (aws) application for a big italian publishing company."
+        ]
+    },
+    {
+        "company": "Easymarket S.p.A",
+        "role": "Analyst Programmer",
+        "date": "Jan - July 2020",
+        "description": [
+            "Maintained and developed code for in-house B2B software primarily using Java, Spring Boot and some VueJs sprinkled in.",
+            "Maintained code for in-house travel e-commerce using Java and Spring Boot"
+        ]
+    }
+]
