@@ -25,6 +25,8 @@
         right: 0px;
         max-width: 100vw;
         border-bottom: 0.5px solid #1e2029;
+        background-color: var(--dark-background-color);
+        z-index: 2;
     }
     nav {
         display: flex;
