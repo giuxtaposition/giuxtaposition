@@ -3,6 +3,7 @@
     import About from "./sections/About.svelte"
     import Hero from "./sections/Hero.svelte"
     import Navbar from "./sections/Navbar.svelte"
+    import WorkInProgressBanner from "./components/WorkInProgressBanner.svelte"
 </script>
 
 <Navbar />
@@ -11,6 +12,7 @@
     <Hero />
     <About />
     <Experience />
+    <WorkInProgressBanner />
 </main>
 
 <style>
