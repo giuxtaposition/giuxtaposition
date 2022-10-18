@@ -4,6 +4,7 @@
     import Hero from "./sections/Hero.svelte"
     import Navbar from "./sections/Navbar.svelte"
     import WorkInProgressBanner from "./components/WorkInProgressBanner.svelte"
+    import Projects from "./sections/Projects.svelte"
 </script>
 
 <Navbar />
@@ -12,6 +13,7 @@
     <Hero />
     <About />
     <Experience />
+    <Projects />
     <WorkInProgressBanner />
 </main>
 

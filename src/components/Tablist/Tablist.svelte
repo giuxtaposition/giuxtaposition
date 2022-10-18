@@ -88,7 +88,7 @@
         border-left: 2px solid var(--dark-brand);
         background-color: transparent;
         color: var(--grey);
-        font-family: "SF Mono", monospace;
+        font-family: var(--font-mono);
         font-size: 13px;
         text-align: left;
         white-space: nowrap;
@@ -131,7 +131,7 @@
     div[role="tabpanel"] .range {
         margin-bottom: 25px;
         color: var(--grey);
-        font-family: "SF Mono", monospace;
+        font-family: var(--font-mono);
         font-size: 0.9rem;
     }
 

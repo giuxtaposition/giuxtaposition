@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Bookworm",
+        "url": "https://bookworm.vercel.app/",
+        "githubUrl": "https://github.com/giuxtaposition/bookworm",
+        "description": "A book management website. \n You can search books with GoogleBooksAPI, show current New York Times best sellers, add and delete books in your library, customize user profile page, etc.",
+        "techList": [
+            "React",
+            "Chakra UI",
+            "Apollo Server (GraphQL)",
+            "Express",
+            "MongoDB"
+        ],
+        "image": "data/projects/bookworm.png"
+    }
+]

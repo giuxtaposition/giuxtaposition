@@ -7,7 +7,11 @@
     --grey: #8f9094;
     --brand: #b794f4;
     --light-brand: #b9aad4;
-    --dark-brand: #755e9d;
+    --dark-brand: #2f175c;
+
+    --font-mono: "SF Mono", monospace;
+
+    --transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 
 body {

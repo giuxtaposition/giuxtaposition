@@ -117,7 +117,7 @@
         margin-bottom: 10px;
         padding-left: 20px;
         font-size: 13px;
-        font-family: "SF Mono", monospace;
+        font-family: var(--font-mono);
     }
 
     .skills-list li::before {
