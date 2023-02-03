@@ -8,8 +8,6 @@
     const changeSelected = (number: number) => {
         isSelected = number
     }
-
-    $: console.log(isSelected)
 </script>
 
 <div class="tablist-container">

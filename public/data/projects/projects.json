@@ -12,5 +12,21 @@
             "MongoDB"
         ],
         "image": "data/projects/bookworm.png"
+    },
+    {
+        "title": "Roguelike",
+        "url": "https://giuxtaposition.github.io/roguelike/",
+        "githubUrl": "https://github.com/giuxtaposition/roguelike",
+        "description": "A small roguelike game made in Svelte. In this project I tried to better my understanding of the <canvas> element and what it could do. I also challenged myself to learn some pixel art basics and made all the sprites on my own.",
+        "techList": ["Svelte", "Typescript", "HTML Canvas", "Sass", "Vite"],
+        "image": "data/projects/roguelike.gif"
+    },
+    {
+        "title": "Todo App",
+        "url": "https://giuxtaposition.github.io/todo-app/",
+        "githubUrl": "https://github.com/giuxtaposition/todo-app",
+        "description": "A simple todo list made with svelte. You can add new tasks, complete and delete them.",
+        "techList": ["Svelte", "Typescript"],
+        "image": "data/projects/todo.png"
     }
 ]

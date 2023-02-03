@@ -11,6 +11,12 @@
 </ul>
 
 <style>
+    .projectList-container {
+        display: flex;
+        flex-direction: column;
+        gap: 3rem;
+    }
+
     :global(.project:nth-of-type(2n + 1) .project-content) {
         grid-column: 7 / -1;
         text-align: right;
