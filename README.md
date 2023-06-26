@@ -1,6 +1,5 @@
 # Giulia Ye @giuxtaposition
 
-- 💼 I’m currently working at [@Claranet Italia](https://www.claranet.it/).
 - 🌱 I’m learning rust and elm and functional programming in general.
 - 👟 In my free time I like running, cooking and just generally being a tiny little nerd ;)
 - ⚡ Fun fact: giuxtaposition is a pun on my name (Giulia) and juxtaposition.
