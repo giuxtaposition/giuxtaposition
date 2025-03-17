@@ -1,7 +1,12 @@
-# Giulia Ye @giuxtaposition
+<h1 align="center">Hi 👋, I'm Giulia</h1>
+<h4 align="center">Fullstack Developer / Life-long Learner</h4>
 
-- 🌱 I’m learning storybook and everything it has to offer.
-- 👟 In my free time I like running, cooking and just generally being a tiny little nerd ;)
+---
+
+- 🥋 XP practitioner.
+- 🌱 Learning new languages just so I can contribute to my favourite open-source projects.
+- 👟 In my free time I like running, gaming and just generally being a tiny little nerd ;)
+- ⌨️ Split Keyboard enthusiast: currently using a [sweep bling LP](https://github.com/davidphilipbarr/Sweep).
 - ⚡ Fun fact: giuxtaposition is a pun on my name (Giulia) and juxtaposition.
 
 ---
@@ -12,4 +17,4 @@
   
 ---
 
-Check out my repos ⬇️  
+Check out my repos ⬇️
